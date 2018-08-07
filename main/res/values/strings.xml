@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie_DB_UI</string>
+    <string name="my_movie_collection">My Movie Collection</string>
+    <string name="search_text_hint">Enter Movie Title</string>
+    <string-array name="mainActivitySpinner">
+        <item>My Movie Collection</item>
+        <item>My Wish List</item>
+        <item>Select a List</item>
+    </string-array>
+</resources>
